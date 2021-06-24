@@ -21,9 +21,7 @@
 <br>
 <img align="right" alt="GIF" src="https://github.com/jgutierrezCSU/repoCopy/blob/master/generated/languages.svg" width="500"/>
 
-</br>
 
-<br>
 <img align="right" alt="GIF" src="https://github.com/jgutierrezCSU/repoCopy/blob/master/generated/overview.svg" width="500"/>
 </br>
 
