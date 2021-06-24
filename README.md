@@ -19,10 +19,10 @@
 - 🔧 &nbsp; Android Studio | Visual Studio code | Git | Linux
 
 <br>
-<img align="right" alt="GIF" src="https://github.com/jgutierrezCSU/repoCopy/blob/master/generated/languages.svg" width="500"/>
+<img align="right" alt="GIF" src="https://github.com/jgutierrezCSU/repoCopy/blob/master/generated/languages.svg" width="440"/>
 
 
-<img align="right" alt="GIF" src="https://github.com/jgutierrezCSU/repoCopy/blob/master/generated/overview.svg" width="500"/>
+<img align="right" alt="GIF" src="https://github.com/jgutierrezCSU/repoCopy/blob/master/generated/overview.svg" width="440"/>
 </br>
 
 
