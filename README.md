@@ -3,10 +3,10 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently working on a Python /Flask Portfolio site
+- 🔭 &nbsp; I’m currently working on a Python / Flask Streaming site
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; Computer Information Systems Major.
-- 💼 &nbsp; knowledge of Android development and back-end web developer.
+- 💼 &nbsp; knowledge of Databases and back-end web developer.
 - 🌱 &nbsp; Enthusiast in cyber Security and Cryptography.
 - ✍️ &nbsp; Traveling, woodworking and Mechatronis for fun.
 
