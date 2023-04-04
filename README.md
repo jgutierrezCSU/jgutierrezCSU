@@ -3,7 +3,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently working on a Python Job scrapper script.
+- 🔭 &nbsp; I’m currently working on a Python Job scraper script.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; Computer Information Systems Major.
 - 💼 &nbsp; knowledge of Databases and back-end web developer.
